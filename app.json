@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "exercice_IMC",
+    "slug": "exercice_IMC",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
